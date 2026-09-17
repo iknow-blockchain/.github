@@ -19,7 +19,7 @@ We connect AI assistants to sourced blockchain explanations and tools that read 
 
 ## Start here
 
-**[Connect to Chia →](https://github.com/I-Know-Blockchain/chia-connect)**  
+**[Connect to Chia →](https://github.com/iknow-blockchain/chia-connect)**  
 Our public setup guide for the invitation-only Chia connection. Access requires an invitation; publishing the guide does not open access. Follow the guide for the currently verified AI app and setup requirements.
 
 New to AI plugins? **[Explore the website](https://iknowblockchain.com/)** for examples and an introduction to MCP (Model Context Protocol), the standard that connects compatible AI apps to these tools.
@@ -28,7 +28,7 @@ New to AI plugins? **[Explore the website](https://iknowblockchain.com/)** for e
 
 | Project | What you can explore | Availability |
 | --- | --- | --- |
-| **[Chia](https://github.com/I-Know-Blockchain/chia-connect)** | Sourced explanations, public chain reads, CATs, NFTs and dated ecosystem news. | Invitation-only beta |
+| **[Chia](https://github.com/iknow-blockchain/chia-connect)** | Sourced explanations, public chain reads, CATs, NFTs and dated ecosystem news. | Invitation-only beta |
 | **[Bitcoin](https://iknowblockchain.com/#packs)** | A future knowledge pack covering Bitcoin and its payment layers. | Planned |
 | **[Compare](https://iknowblockchain.com/compare/)** | Sourced profiles of base chains, rollups and payment networks. | Research preview; live metrics are planned |
 
