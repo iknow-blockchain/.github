@@ -1,45 +1,39 @@
 <p align="center">
   <a href="https://iknowblockchain.com/">
-    <img src="https://iknowblockchain.com/brand/marks/ecosystem-transparent.png" alt="iKnow Blockchain — three connected synapses" width="140" height="140">
+    <img src="https://iknowblockchain.com/brand/open-branch/png/symbol-purple-512.png" alt="iKnow Blockchain Open Branch logo" width="120" height="120">
   </a>
 </p>
 
 <h1 align="center">iKnow Blockchain</h1>
 
-<p align="center"><strong>Blockchain knowledge. Connected.</strong></p>
+<p align="center"><strong>Blockchain knowledge you can check.</strong><br>151 blockchains. One evidence standard.</p>
 
 <p align="center">
   <a href="https://iknowblockchain.com/">Website</a> ·
-  <a href="https://iknowblockchain.com/downloads/">Access &amp; setup</a> ·
-  <a href="https://iknowblockchain.com/compare/">Compare networks</a> ·
+  <a href="https://iknowblockchain.com/compare/">Compare</a> ·
+  <a href="https://iknowblockchain.com/connect/">Connect your AI</a> ·
+  <a href="https://iknowblockchain.com/organizations/">For teams</a> ·
   <a href="https://iknowblockchain.com/support/">Support</a>
 </p>
 
-We connect AI assistants to sourced blockchain explanations and tools that read public blockchain data. Ask a question in ordinary language, explore the evidence, and follow the sources.
+Compare blockchains side by side, learn how they work and follow sourced news, here or inside your AI assistant.
+
+**Website catalogue: 151 chains. Current AI connection: 14 chains; approved accounts only.**
 
 ## Start here
 
-**[Connect to Chia →](https://github.com/iknow-blockchain/chia-connect)**  
-Our public setup guide for the invitation-only Chia connection. Access requires an invitation; publishing the guide does not open access. Follow the guide for the currently verified AI app and setup requirements.
+- **[Connect your AI](https://iknowblockchain.com/connect/)**: set up the read-only connection. The public setup guide is in [iknow-blockchain/connect](https://github.com/iknow-blockchain/connect).
+- **[Compare blockchains](https://iknowblockchain.com/compare/)**: pick any chains and read them side by side against the same fields, with sources.
+- **[For teams](https://iknowblockchain.com/organizations/)**: explore a paid pilot that brings sourced blockchain answers to your users.
 
-New to AI plugins? **[Explore the website](https://iknowblockchain.com/)** for examples and an introduction to MCP (Model Context Protocol), the standard that connects compatible AI apps to these tools.
+## Built for checking
 
-## The ecosystem
-
-| Project | What you can explore | Availability |
-| --- | --- | --- |
-| **[Chia](https://github.com/iknow-blockchain/chia-connect)** | Sourced explanations, public chain reads, CATs, NFTs and dated ecosystem news. | Invitation-only beta |
-| **[Bitcoin](https://iknowblockchain.com/#packs)** | A future knowledge pack covering Bitcoin and its payment layers. | Planned |
-| **[Compare](https://iknowblockchain.com/compare/)** | Sourced profiles of base chains, rollups and payment networks. | Research preview; live metrics are planned |
-
-## Built for understanding
-
-- **Answers with sources.** Trace explanations to their references and check dates and limitations.
+- **Answers with sources.** Trace each claim to its reference, with its review date and stage.
 - **Read-only tools.** No transaction signing, coin spending or custody of keys.
-- **Independent perspective.** Funding supports research and maintenance; it does not buy rankings or editorial control.
+- **The same standard for every chain.** Funding cannot buy preferred placement, favorable wording or a different evidence standard.
 
 ## Get in touch
 
-[Say hello](mailto:hello@iknowblockchain.com) · [Setup help](mailto:support@iknowblockchain.com) · [Feedback](mailto:feedback@iknowblockchain.com) · [Foundation partnerships](https://iknowblockchain.com/foundations/)
+[Say hello](mailto:hello@iknowblockchain.com) · [Setup help](mailto:support@iknowblockchain.com) · [Feedback](mailto:feedback@iknowblockchain.com) · [Foundation funding](https://iknowblockchain.com/support/#foundations)
 
 <sub>Independent education and read-only tools. Network names identify the subjects covered and do not imply endorsement. [Rights &amp; attribution](https://iknowblockchain.com/rights/).</sub>
